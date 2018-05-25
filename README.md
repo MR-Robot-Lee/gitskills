@@ -6,3 +6,5 @@ test brand-new branch capibility.
 keep branch infomation after deleting this branch.
 test stash.
 test stash again.
+checkout dev.
+test the account myself.
